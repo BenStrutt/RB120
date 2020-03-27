@@ -1,3 +1,5 @@
+# .rubocop.yml for non-RB101 courses (10 Dec 2019)
+
 AllCops:
   # Display cop names
   DisplayCopNames: true
